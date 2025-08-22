@@ -6,14 +6,13 @@ body
     border-radius: 20px;
     border-color: #371E30;
     border-style: double;
-    width: 40%;
+    width: 95%;
     margin: 5px auto 5px auto;
     padding : 4px;
 }
 
 h1
 {
-    display: inline;
     font-size: 96px;
     font-weight: bolder;
     border-style: inherit;
@@ -21,7 +20,7 @@ h1
     border-radius: 5px;
     border-color: #371E30;
     background-color: #F6828C;
-    padding: 0px 20px 0px 20px;
+    margin-top: 5px;
 }
 
 img
