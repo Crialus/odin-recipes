@@ -1,0 +1,49 @@
+body
+{
+    background-color: #f59CA9;
+    color: #df57bc;
+    text-align: center;
+    border-radius: 20px;
+    border-color: #371E30;
+    border-style: double;
+    width: 40%;
+    margin: 5px auto 5px auto;
+    padding : 4px
+}
+
+h1
+{
+    font-size: 96px;
+    font-weight: bolder;
+    border-style: inherit;
+    color: #a03e99;
+    border-radius: 5px;
+    border-color: #371E30;
+    background-color: #F6828C;
+    margin: 5px auto auto;
+    width : 96%
+}
+
+img
+{
+    margin: 20px;
+    border-style: inherit;
+    border-radius: 20px;
+    border-color: #371E30;
+}
+
+ul{
+    display: inline-block;
+}
+
+.ingredients,
+.recipe
+{
+    text-align: left;
+}
+
+.recipe
+{
+    width: 75%;
+    margin: auto
+}
